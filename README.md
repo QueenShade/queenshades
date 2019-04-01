@@ -43,7 +43,7 @@ Before
 After
 ![After](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls/ds2.png "After")
 
-## Sekiro
+## Dark Souls 2
 Before
 ![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/sekiro/sekiro1.png "Before")
 After
