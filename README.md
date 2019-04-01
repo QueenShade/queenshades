@@ -36,5 +36,5 @@ To set up a Queenshade, install Reshade and then navigate to the game's folder t
 Here are some examples 
 
 Dark Souls 
-![Before](https://github.com/PCGamingEra/queenshades/comparison pictures/dark souls/darksouls/ds1.png "Before")
-![After](https://github.com/PCGamingEra/queenshades/comparison pictures/dark souls/darksouls/ds2.png "After")
+![Before](https://github.com/PCGamingEra/queenshades/examples/darksouls/ds1.png "Before")
+![After](https://github.com/PCGamingEra/queenshades/examples/darksouls/ds2.png "After")
