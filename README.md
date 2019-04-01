@@ -31,3 +31,10 @@ Queen has been working on Reshade sets for a while. Most examples of Reshades sh
 QueenShades are Queen's special reshade's that allow you to use my readymade reshares with just downloading the .ini file 
 
 To set up a Queenshade, install Reshade and then navigate to the game's folder to a folder called reshade-shaders. Drop the .ini file here and you're good to go!
+
+# Examples 
+Here are some examples 
+
+Dark Souls 
+![Before](https://github.com/PCGamingEra/queenshades/comparison pictures/dark souls/darksouls/ds1.png "Before")
+![After](https://github.com/PCGamingEra/queenshades/comparison pictures/dark souls/darksouls/ds2.png "After")
