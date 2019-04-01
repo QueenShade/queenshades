@@ -13,7 +13,7 @@ For more information on Reshade, click here (https://reshade.me)
 
 Queen has been working on Reshade sets for a while. Most examples of Reshades she has seen have been full of Bloom and other exaggerated effects. She wanted to go for more subtle changes, like removing horrible tints in games, maxing textures better or color correcting to enhance the atmosphere of games.
 
-#How to set up Reshade?
+# How to set up Reshade?
 
 1. To start, go to https://reshade.me and download the latest build. 
 2. Open the exe file you just downloaded, which will bring up a box.
@@ -26,7 +26,8 @@ Queen has been working on Reshade sets for a while. Most examples of Reshades sh
 9. Once in-game, you can press home on your keyboard to start up Reshade initialization
 10. After clicking continue for 3 times, you can start enabling different effects.
 
-#Queen's presets
+# Queen's presets
+
 QueenShades are Queen's special reshade's that allow you to use my readymade reshares with just downloading the .ini file 
 
 To set up a Queenshade, install Reshade and then navigate to the game's folder to a folder called reshade-shaders. Drop the .ini file here and you're good to go!
