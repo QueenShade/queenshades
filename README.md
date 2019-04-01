@@ -9,7 +9,7 @@ Reshade is an open-source advanced, fully generic post-processing injector for g
 
 reshade just recently got updated to 4.0 which could make way for vulkan reshade in future
 
-For more information on Reshade, click here (https://reshade.me)
+For more information on Reshade, click  [https://reshade.me]
 
 Queen has been working on Reshade sets for a while. Most examples of Reshades she has seen have been full of Bloom and other exaggerated effects. She wanted to go for more subtle changes, like removing horrible tints in games, maxing textures better or color correcting to enhance the atmosphere of games.
 
