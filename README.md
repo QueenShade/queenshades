@@ -35,7 +35,7 @@ To set up a Queenshade, install Reshade and then navigate to the game's folder t
 # Examples 
 Here are some examples 
 
-# Dark Souls
+## Dark Souls
 
 Before
 ![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls/ds1.png "Before")
@@ -43,7 +43,7 @@ Before
 After
 ![After](https://github.com/PCGamingEra/queenshades/blob/master/examples/darksouls/ds2.png "After")
 
-# Sekiro
+## Sekiro
 Before
 ![Before](https://github.com/PCGamingEra/queenshades/blob/master/examples/sekiro/sekiro1.png "Before")
 After
